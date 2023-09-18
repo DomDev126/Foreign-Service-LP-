@@ -383,7 +383,7 @@ main {
                     font-size: 18px;
                     margin-bottom: 46px;
                     text-align: center;
-                    text-shadow: -1.5px -1.5px 2.5px white , 1.5px -1.5px 2.5px white , -1.5px 1.5px 2.5px white , 1.5px 1.5px 2.5px white;
+                    
                     @include media-laptop{
                         margin-bottom: 30px;
                         font-size: 16px;
